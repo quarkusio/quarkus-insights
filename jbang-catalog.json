@@ -1,0 +1,13 @@
+{
+  "catalogs": {},
+  "aliases": {},
+  "templates": {
+    "ByteSize": {
+      "description": "ByteSize example from Quarkus Insights #53 about java memory",
+      "file-refs": {
+        "{basename}.java": "ep53/ByteSize.java.qute",
+        "agent/Agent.java": "ep53/agent/Agent.java"
+      }
+    }
+  }
+}
