@@ -1,6 +1,6 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 // //DEPS <dependency1> <dependency2>
-//SOURCES agent/*.java
+//SOURCES agent/Agent.java
 
 import static agent.Agent.inst;
 
@@ -11,7 +11,7 @@ public class {baseName} {
     public static void main(String... args) {
         if(inst==null) {
             System.out.println("Agent not loaded. Run it like this: ");
-            System.out.println("java --javaagent=agent/Agent.java {baseName}.java");
+            System.out.println("jbang --javaagent=agent/Agent.java {baseName}.java");
         }
         out.println(inst.getObjectSize(new Object()));
         out.println(inst.getObjectSize(new {baseName}()));
