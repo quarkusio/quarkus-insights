@@ -1,0 +1,25 @@
+== Q-Tips
+
+Q-Tips are intended to be quick tips about some specific topic or feature around Quarkus.
+
+Everyone is encouraged to contribute to them, below are some guidelines to make them:
+
+Basic process:
+
+1) Make a video using your favorite recording tool following the guidelines below
+2) Upload the raw video to youtube unlisted
+3) Open issue or comment on existing issue with the title, description and a youtube url
+4) Then video staff will add consistent starting and ending bumpers for Quarkus community
+5) Gets uploaded and its out in the world.
+
+
+Guidelines:
+1) The first 20 seconds of the video explain the benefit to the user:
+-- One sentence to generally explain what it does. For example: "With quarkus:dev you can make changes in your code and see the changes in your app immediately."
+-- One sentence to give a detailed, anecdotal proof. For example: "After I made code changes in my REST-JPA application, I went to the browser and the refresh took 503 milliseconds, in which time the entire application had rebooted."
+-- (optional) One sentence to make them curious. Ask a question that will be answered much later. For example: "And I'll show you how long a refresh on an app with 100 JPA entities takes."
+-- Show your face and smile in those 20 seconds. Build trust, (try to) be charming. You're talking to human beings. Human beings mistrust people they can't see.
+2) The rest of the video show demonstrate it.
+-- Screenshare and demonstrate it. (You can stop smiling now ;-)
+3) End video 
+
