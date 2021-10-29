@@ -5,6 +5,8 @@ Quarkus Insights is a [youtube live channel](https://youtube.com/quarkusio/live)
 
 We use github issues with label "insights" to suggest and find ideas on future topics.
 
+There is also Q-Tips which are smaller focused videos on specific topic - you can see how to contribute [here](qtips.adoc).
+
 Go to [insights ideas issue list](https://github.com/quarkusio/quarkus-insights/issues?q=is%3Aopen++sort%3Areactions-%2B1-desc+) and vote-up or suggest new ideas.
 
 We use this [project board](https://github.com/orgs/quarkusio/projects/8) for the immediate planning.
