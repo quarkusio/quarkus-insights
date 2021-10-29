@@ -7,13 +7,18 @@ Everyone is encouraged to contribute to them, below are some guidelines to make 
 Basic process:
 
 1) Make a video using your favorite recording tool following the guidelines below
-2) Upload the raw video to youtube unlisted
-3) Open issue or comment on existing issue with the title, description and a youtube url
+2) Upload the raw video to a public file sharing location (google drive, dropbox, etc.). Do not use youtube as it will compress the video. 
+3) Open issue or comment on existing issue with the title, description and a url for the uploaded file.
 4) Then video staff will add consistent starting and ending bumpers for Quarkus community
 5) Gets uploaded and its out in the world.
 
 
 Guidelines:
+0) Before you start:app-name: 
+	- turn off any notifications and chat windows. You don't want any surprises or bloopers happening during the video. 
+	- Be mindful of your background while on screen. Keep a simple background... too much clutter distracts the viewer. 	
+	- Create Good Lighting. You want a good light source in front of you and no backlighting. Don't sit with a bright window behind you.
+	- Camera Position. You want your camera to be at the general level of your head. Lurching over the laptop camera while you're hunched over doesn't make for welcoming posture for the viewer.
 1) The first 20 seconds of the video explain the benefit to the user:
 -- One sentence to generally explain what it does. For example: "With quarkus:dev you can make changes in your code and see the changes in your app immediately."
 -- One sentence to give a detailed, anecdotal proof. For example: "After I made code changes in my REST-JPA application, I went to the browser and the refresh took 503 milliseconds, in which time the entire application had rebooted."
@@ -21,5 +26,5 @@ Guidelines:
 -- Show your face and smile in those 20 seconds. Build trust, (try to) be charming. You're talking to human beings. Human beings mistrust people they can't see.
 2) The rest of the video show demonstrate it.
 -- Screenshare and demonstrate it. (You can stop smiling now ;-)
-3) End video 
+3) End video
 
