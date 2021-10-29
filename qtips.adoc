@@ -8,7 +8,7 @@ Everyone is encouraged to contribute to them, below are some guidelines to make 
 
 1. Make a video using your favorite recording tool following the guidelines below
 2. Upload the raw video to a public file sharing location (google drive, dropbox, etc.). Do not use youtube as it will compress the video. 
-3. Open issue or comment on existing issue with the title, description and a url for the uploaded file.
+3. Open issue with Q-Tip label or https://github.com/quarkusio/quarkus-insights/issues?q=is%3Aissue+is%3Aopen+label%3Aqtip+[comment on existing issue] with the title, description and a url for the uploaded file.
 4. Then video staff will add consistent starting and ending bumpers for Quarkus community
 5. Gets uploaded and its out in the world.
 
