@@ -1,11 +1,11 @@
 
 # Overview
 
-Quarkus Insights is a [youtube live channel](https://youtube.com/quarkusio/live) that currently are hosted by Emmanuel, Max, Georgios and Jason
+Quarkus Insights is a [youtube live channel](https://youtube.com/quarkusio/live) that currently are hosted by Max and Holly (with the occasional guest)
 
 We use github issues with label "insights" to suggest and find ideas on future topics.
 
-There is also Q-Tips which are smaller focused videos on specific topic - you can see how to contribute [here](qtips.adoc).
+There is also Q-Tips which are smaller focused videos on specific topic - you can see [how to contribute](qtips.adoc).
 
 Go to [insights ideas issue list](https://github.com/quarkusio/quarkus-insights/issues?q=is%3Aopen++sort%3Areactions-%2B1-desc+) and vote-up or suggest new ideas.
 
