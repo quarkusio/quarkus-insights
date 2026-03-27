@@ -28,12 +28,12 @@ The format of the Quarkus video cast with a interviewee is as follows:
 For Quarkus technology focused interview:
 - deep dive (we want tech content and/or understanding of why)
 - can mean long (1h) but might be shorter
-- Emmanuel, Max, Jason and/or Georgios interviews you on a given subject
+- The hosts interview you on a given subject
 
 For Quarkus contributor/user focused interview:
 - understanding of why and how - deep dive where it makes sense 
 - can mean long (1h) but might be shorter
-- Emmanuel and Max interviews you on your involvement and usage of Quarkus
+- The hosts interview you on your involvement and usage of Quarkus
 
 The objective for the listener is:
 - understand the technology or the usage
